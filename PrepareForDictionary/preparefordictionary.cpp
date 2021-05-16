@@ -31,6 +31,8 @@ void PrepareForDictionary::init()
 		
 	editMenu->addAction("edit");
 	editMenu->addAction("charSet");
+
+	ToolBar
 }
 
 void PrepareForDictionary::start()
